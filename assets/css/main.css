@@ -951,7 +951,7 @@ nav#menu span.fa.fa-bars:hover {
 .section-intro .overlay {
   background: rgba(0, 0, 0, 0.5) repeat;
   width: 100%;
-  height: 100%;
+  height: 50%;
 }
 .section-intro .main-text {
   margin: 100px 15px 130px;
@@ -2782,6 +2782,7 @@ table.add-manage-table > tbody > tr > th {
   background-color: #fff;
   border: 1px solid #ccc;
 }
+
 /* ==========================================================================
    Contact Pages
    ========================================================================== */
